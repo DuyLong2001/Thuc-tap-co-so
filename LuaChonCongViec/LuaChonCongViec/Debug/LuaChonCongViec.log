@@ -1,0 +1,4 @@
+﻿  LuaChonHoatDong.cpp
+C:\Users\ASUS\source\repos\TTCS\LuaChonCongViec\LuaChonCongViec\LuaChonHoatDong.cpp(85,9): warning C4101: 'j': unreferenced local variable
+C:\Users\ASUS\source\repos\TTCS\LuaChonCongViec\LuaChonCongViec\LuaChonHoatDong.cpp(85,6): warning C4101: 'i': unreferenced local variable
+  LuaChonCongViec.vcxproj -> C:\Users\ASUS\source\repos\TTCS\LuaChonCongViec\Debug\LuaChonCongViec.exe
